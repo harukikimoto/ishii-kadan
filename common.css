@@ -1,0 +1,28 @@
+
+html {
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+body {
+    font-family: “Times New Roman”, “游明朝”, “Yu Mincho”, “游明朝体”, “YuMincho”, “ヒラギノ明朝 Pro W3”, “Hiragino Mincho Pro”, “HiraMinProN-W3”, “HGS明朝E”, “ＭＳ Ｐ明朝”, “MS PMincho”, serif;;
+    line-height: 1.5;
+    background-color: #fff;
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+li {
+    list-style: none;
+}
+.wrapper {
+    box-sizing: border-box;
+    max-width: 1200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0 auto;
+}
